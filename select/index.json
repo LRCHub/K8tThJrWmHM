@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "アイタリナイ",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-02-07T07:03:14.763926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes feat. yama & ニト。",
+      "has_synced": false,
+      "path": "select/01_アイタリナイ_MAISONdes_feat._yama_&_ニト。.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/02_アイタリナイ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes, yama, ニト。",
+      "has_synced": true,
+      "path": "select/03_アイタリナイ_MAISONdes,_yama,_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes feat. yama & ニト。",
+      "has_synced": true,
+      "path": "select/04_アイタリナイ_MAISONdes_feat._yama_&_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アイタリナイ (Aitalinai)",
+      "artist": "MAISONdes/yama/ニト。",
+      "has_synced": true,
+      "path": "select/05_アイタリナイ_(Aitalinai)_MAISONdes_yama_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/06_アイタリナイ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes, yama, ニト。",
+      "has_synced": true,
+      "path": "select/07_アイタリナイ_MAISONdes,_yama,_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes, yama, ニト。",
+      "has_synced": true,
+      "path": "select/08_アイタリナイ_MAISONdes,_yama,_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes feat. yama & ニト。",
+      "has_synced": true,
+      "path": "select/09_アイタリナイ_MAISONdes_feat._yama_&_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes feat. yama & ニト。",
+      "has_synced": true,
+      "path": "select/10_アイタリナイ_MAISONdes_feat._yama_&_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes feat. yama, ニト。",
+      "has_synced": false,
+      "path": "select/11_アイタリナイ_MAISONdes_feat._yama,_ニト。.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/12_アイタリナイ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes feat․ yama & ニト。",
+      "has_synced": false,
+      "path": "select/13_アイタリナイ_MAISONdes_feat._yama_&_ニト。.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アイタリナイ - Not enough (feat. yama",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/14_アイタリナイ_-_Not_enough_(feat._yama_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アイタリナイ",
+      "artist": "MAISONdes feat. yama & ニト。",
+      "has_synced": true,
+      "path": "select/15_アイタリナイ_MAISONdes_feat._yama_&_ニト。.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アイタリナイ - Not enough (feat. ニト。 & yama)",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/16_アイタリナイ_-_Not_enough_(feat._ニト。_&_yama)_MAISONdes.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "【210】[feat. yama, ニト。] アイタリナイ / MAISONdes",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/17_【210】[feat._yama,_ニト。]_アイタリナイ___MAISONdes_MAISONdes.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "アイタリナイ (feat. yama & ニト。)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/18_アイタリナイ_(feat._yama_&_ニト。)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "アイタリナイ (feat. yama, nito)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/19_アイタリナイ_(feat._yama,_nito)_MAISONdes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイタリナイ feat. yama, ニト。",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/pl_01_アイタリナイ_feat._yama,_ニト。_MAISONdes.txt"
+    }
+  ]
+}
